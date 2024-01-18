@@ -1,0 +1,139 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+body{
+    background-image: url(https://www.canva.com/design/DAFgOse0etg/OgJUGAXQaiBmXa2TqXj8LQ/edit);
+}
+footer{
+    background: ;
+    width: 100%;
+    height: 100%;
+}
+
+
+h1{ 
+    font-family: "Britannic Bold", sans-serif;
+    font-size: 40px;
+    text-align: center;
+    background-color:  #b695c0 ;
+    color:  white;
+    
+    
+}
+h4{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: center;
+    background-color:  white ;
+    color:  #b695c0;
+
+
+}
+ul {
+    font-size: 20px;
+    background-color: #dac9df;
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+    text-underline-position: center;
+    font-family: "Microsoft JhengHei UI Ligh", sans-serif;
+}
+
+nav li{
+    display: inline-flex;
+}
+nav a{
+    text-decoration: none;
+    color: white  ;
+    padding: 10px;
+    width: 150px;
+    
+}
+
+
+nav li :hover{
+    background-color:#cbc6c3;
+
+}
+
+
+
+.Contenido{
+    
+    
+    display: flex;
+    margin: 60px;
+    
+}
+
+.selecciones{
+    display: flex;
+    margin-top:60px ;
+    object-fit: cover;
+}
+h2{
+   font-size: 40px;
+   font-family: 'Microsoft JhengHei UI Light', Times, serif;
+   color: rgb(126, 75, 113) ;
+   text-align: center;
+   
+  
+   
+}
+p{
+    font-size: 30px;
+}
+
+ol {
+    font-size: 20px;
+    background-color: #eBd1e7;
+    width: 100%;
+    list-style-type: none;
+    text-align: center;
+}
+li{
+    display: inline-flex;
+}
+
+.foter-inforbackgroun{
+    background: #bb78ba;
+    width: 100%;
+    height: 100%;
+}
+    
+h3{
+    font-size: 600px ;
+    font-size: 40px;
+    font-family: 'Cooper Black', Times, serif;
+    color: rgb(126, 75, 113) ;
+   text-align: center;
+    
+}
+
+
+
+
+.Contenido img{
+    margin: 20px;
+    width: 40%;
+    height:40% ;
+}
+p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Cuadro {
+    
+        border: 5px solid #b695c0 ; 
+        padding: 20px; 
+        margin: 20px; 
+        background-color: #ffffff; 
+    
+}
+
+
+
+

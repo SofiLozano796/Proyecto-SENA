@@ -1,0 +1,49 @@
+body {
+    background-color: #f0e8e8;
+    font-family: Arial, sans-serif;
+  }
+  
+  .container {
+    width: 300px;
+    margin: 0 auto;
+    background-color: #d9c1c1;
+    border: 1px solid #8c7474;
+    padding: 20px;
+    border-radius: 5px;
+    margin-top: 50px;
+  }
+  
+  h2 {
+    color: #844949;
+  }
+  
+  input[type="text"], input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #8c7474;
+    border-radius: 3px;
+  }
+  
+  input[type="submit"] {
+    background-color: #844949;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #6b3c3c;
+  }
+  
+  .register-link {
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  .register-link a {
+    text-decoration: none;
+    color: #844949;
+  }
